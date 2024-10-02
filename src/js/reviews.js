@@ -1,4 +1,4 @@
-import axios from 'axios';
+/* import axios from 'axios';
 import Swiper from 'swiper';
 import 'swiper/css/bundle';
 import { Keyboard, Mousewheel, Navigation } from 'swiper/modules';
@@ -120,3 +120,4 @@ function topFunction() {
 document.addEventListener('DOMContentLoaded', function () {
   document.getElementById('myBtn').addEventListener('click', topFunction);
 });
+ */
