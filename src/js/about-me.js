@@ -14,7 +14,7 @@ const swiperAboutMe = new Swiper('#swiperAbout', {
   },
   mousewheel: {
     invert: true,
-  },
+  },  
   keyboard: {
     enabled: true,
     onlyInViewport: true,

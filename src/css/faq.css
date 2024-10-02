@@ -11,7 +11,7 @@
 }
 .faq-list {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr;  
 }
 
 .test1 {

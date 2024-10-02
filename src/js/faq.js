@@ -23,4 +23,4 @@ new Accordion('.faq-list', {
 //             item.classList.toggle('open');
 //         });
 //     });
-// });
+// });  

@@ -54,7 +54,7 @@
     display: inline-block;
   }
 }
-
+  
 .dropbtn {
   background-color: transparent;
   color: var(--main-text-color);

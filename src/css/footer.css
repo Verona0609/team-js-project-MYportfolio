@@ -362,7 +362,7 @@
       right center no-repeat;
   }
 }
-
+  
 @media screen and (min-width: 1440px) and (min-resolution: 192dpi) {
   .footer {
     background: var(--main-bg-color) url('/img/footer/footer-desktop_2x.png')

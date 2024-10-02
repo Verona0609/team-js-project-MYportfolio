@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   if (savedComment) {
     refs.comments.value = savedComment;
-  }
+  }  
 });
 
 refs.email.addEventListener('input', () => {

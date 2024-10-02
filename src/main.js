@@ -22,3 +22,4 @@ function handleIntersection(entries) {
 const elementsWithBackground = document.querySelectorAll('.lazy-bg');
 const observer = new IntersectionObserver(handleIntersection);
 elementsWithBackground.forEach(el => observer.observe(el));
+   
