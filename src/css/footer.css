@@ -73,7 +73,7 @@
 
 .footer-form-input:focus {
   outline: none;
-  border-bottom: 1px solid #e0373f;
+  border-bottom: 1px solid var(--accent-color);
 }
 
 .footer-form-input:focus::placeholder {
@@ -96,7 +96,7 @@
 
 .footer-form-btn:hover {
   opacity: 0.6;
-  background-color: #e0373f;
+  background-color: #037c6c;
   letter-spacing: 0.1em;
 }
 
