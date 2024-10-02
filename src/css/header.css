@@ -10,7 +10,9 @@
   justify-content: space-between;
   align-items: start;
 }
-
+.header-img {
+  border-radius: 10px;
+}
 .navigation {
   display: flex;
   flex-basis: 100%;

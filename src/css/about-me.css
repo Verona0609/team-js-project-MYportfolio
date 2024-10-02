@@ -1,8 +1,16 @@
 /* about me */
 
+.portrait-img {
+  border-radius: 22px;
+  height: 450px;
+}
 @media only screen and (min-width: 768px) {
   .section .about-me {
     padding-top: 32px;
+  }
+  .portrait-img {
+    border-radius: 22px;
+    height: 700px;
   }
 }
 
@@ -236,7 +244,7 @@
 }
 
 .current-skill {
-  background-color: #ed3b44;
+  background-color: #024139;
   border: none;
   border-radius: 100%;
 }
