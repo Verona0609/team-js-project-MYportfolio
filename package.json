@@ -5,8 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-js-project-portfolio/",
-    "preview": "vite preview"
+    "build": "vite build --base=/team-js-project-MYportfolio/",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "main -d dist"
   },
   "devDependencies": {
     "glob": "^8.1.0",
