@@ -8,9 +8,10 @@
     "build": "vite build --base=/team-js-project-MYportfolio/",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "main -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "glob": "^8.1.0",
     "vite": "^4.5.2"
   },
